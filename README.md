@@ -3,7 +3,8 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/LombaAnderson/receitas_django/blob/main/LICENSE)
 
 # Sobre o projeto
-Site completo de receitas do curso da Alura feito em Django tanto o frontend quanto o backend 
+Site completo de receitas do curso da Alura feito em Django. Foi desenvolvido nesse projeto tanto o frontend quanto o backend em Django e possui paginação, filtros,
+sistema de busca de receitas, data de envio das receitas e quem as enviou.
 
 
 ## Imagem de exemplo da home do site de receitas
@@ -21,7 +22,10 @@ Site completo de receitas do curso da Alura feito em Django tanto o frontend qua
 
  Principais Frameworks
 -Django==4.0
+
 -Pillow
+
+-Python-decouple
 
 
 # Instruções para compilar, testar e rodar o projeto
